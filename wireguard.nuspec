@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>wireguard</id>
+    <version>0.0.35/version>
+    <title>WireGuard</title>
+    <authors>Jason A. Donenfeld</authors>
+    <owners>kylebaker</owners>
+    <licenseUrl>https://git.zx2c4.com/WireGuard/about/COPYING</licenseUrl>
+    <projectUrl>https://www.wireguard.com/</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/kylebaker/Chocolatey-WireGuard@master/img/wireguard.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPsec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. WireGuard is designed as a general purpose VPN for running on embedded interfaces and super computers alike, fit for many different circumstances. Initially released for the Linux kernel, it is now cross-platform (Windows, macOS, BSD, iOS, Android) and widely deployable. It is currently under heavy development, but already it might be regarded as the most secure, easiest to use, and simplest VPN solution in the industry.</description>
+    <summary>WireGuard is a novel VPN that runs inside the Linux Kernel and utilizes state-of-the-art cryptography.</summary>
+    <releaseNotes>https://git.zx2c4.com/wireguard-windows/commit/?id=f0ae0857a23fc123a2d7d086864e872c38828793</releaseNotes>
+    <copyright>Jason A. Donenfeld</copyright>
+    <tags>wireguard tunnel vpn</tags>
+    <projectSourceUrl>https://git.zx2c4.com/wireguard-windows/about/</projectSourceUrl>
+    <packageSourceUrl>https://github.com/kylebaker/Chocolatey-WireGuard</packageSourceUrl>
+  </metadata>
+</package>
